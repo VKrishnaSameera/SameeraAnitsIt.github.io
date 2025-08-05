@@ -1,9 +1,14 @@
-title: "V. Krishna Sameera - Resume"
+title: "V. Krishna Sameera"
 description: "Personal Resume and Portfolio"
-theme: jekyll-theme-cayman
+theme: minima
 
-# Optional settings
 author: V. Krishna Sameera
 email: krishnasameerav@gmail.com
-show_downloads: false
-google_analytics: 
+
+minima:
+  social_links:
+    - email: krishnasameerav@gmail.com
+
+# Enable relative links
+permalink: pretty
+
